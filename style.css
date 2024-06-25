@@ -1,0 +1,33 @@
+input{
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+label{
+    padding: 10px;
+    margin-right: 5px;
+}
+button{
+    margin-top: 25px;
+    font-size: 20px;
+    background-color:cornflowerblue;
+    border-radius: 10px;
+    cursor: pointer;
+    position: absolute;
+    left: 10%;
+}
+.cad{
+    height: 300px;
+    width: 900px;
+    background-image: linear-gradient(45deg, cyan, yellow);
+    position: absolute;
+    top: 25%;
+    left: 17%;
+}
+body{
+    background-image: linear-gradient(45deg, cyan, rgb(29, 67, 172));
+}
+h1{
+    text-align: center;
+}
